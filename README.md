@@ -1,2 +1,2 @@
 # Lab2
-Pratical session in POF
+Pratical session in PAF
